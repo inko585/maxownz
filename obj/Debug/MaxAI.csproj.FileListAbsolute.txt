@@ -1,0 +1,12 @@
+C:\dev\csharp\MaxOwnz\bin\Debug\MaxAI.exe.config
+C:\dev\csharp\MaxOwnz\bin\Debug\MaxAI.exe
+C:\dev\csharp\MaxOwnz\bin\Debug\MaxAI.pdb
+C:\dev\csharp\MaxOwnz\bin\Debug\AE.Logging.dll
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.Properties.Resources.resources
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.csproj.GenerateResource.Cache
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.exe
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.pdb
+C:\dev\csharp\MaxOwnz\bin\Debug\AE.Common.dll
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.csprojAssemblyReference.cache
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.csproj.CoreCompileInputs.cache
+C:\dev\csharp\MaxOwnz\obj\Debug\MaxAI.csproj.CopyComplete
