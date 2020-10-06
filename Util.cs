@@ -25,7 +25,7 @@ namespace MaxAI
 
         public static string GetRandomName()
         {
-            string[] names = new string[] { "deep", "blue", "krissi", "jens", "go", "max", "bölle", "spitz", "haut", "herz", "alt", "blau", "ober", "unter", "meier", "aiges", "sechzig", "zehner", "herzacht", "rockstar", "gerald", "luke", "vader", "wenz", "hentai", "metallica", "mario", "luigi", "shyguy", "drei", "schlogerwechsel", "maschie", "gspannt", "ruffy", "zorro", "totoro", "link", "cloud", "herzsau", "baiml", "bohemian", "trump", "ratm", "ai", "darwin", "loner", "madhatter", "alise", "tesla", "goku", "geist", "blue", "milano", "sauerkraut", "toad", "ray", "vestigo", "sam", "newtown", "stubn", "gsicht", "chick", "donald", "öyster" };
+            string[] names = new string[] { "deep", "blue", "krissi", "jens", "go", "max", "bölle", "spitz", "haut", "herz", "alt", "blau", "ober", "unter", "meier", "aiges", "sechzig", "zehner", "herzacht", "rockstar", "gerald", "luke", "vader", "wenz", "metallica", "mario", "luigi", "shyguy", "drei", "schlogerwechsel", "maschie", "gspannt", "ruffy", "zorro", "totoro", "link", "cloud", "herzsau", "baiml", "bohemian", "trump", "ratm", "ai", "darwin", "loner", "madhatter", "alise", "tesla", "goku", "geist", "blue", "milano", "sauerkraut", "toad", "ray", "vestigo", "sam", "newtown", "stubn", "gsicht", "chick", "donald", "öyster" };
 
             return names[rng.Next(names.Count() - 1)] + rng.Next(99);
         }
